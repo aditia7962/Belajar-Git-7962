@@ -1,6 +1,7 @@
 <?php
 //update 9 desember 2016
-//update lagi
+<<<<<<< HEAD
+//update lagi fix
 require_once 'core/init.php';
 
 $id = $_GET['id'];
