@@ -1,5 +1,6 @@
 <?php
 //update 9 desember 2016
+//update lagi
 require_once 'core/init.php';
 
 $id = $_GET['id'];
