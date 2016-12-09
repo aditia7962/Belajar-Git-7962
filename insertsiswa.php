@@ -1,4 +1,5 @@
 <?php
+//ini komentar
 require_once('core/init.php');
 $siswa = new siswa();
 $nation = new nationality();
